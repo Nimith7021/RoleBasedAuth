@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthDB/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\webroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\webroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\mappings\\rolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\mappings\\rolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\mappings\\employeemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\mappings\\employeemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\views\\employee\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\views\\employee\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\content\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\content\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\authenticationmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A57D39-8AA5-45A5-A3D7-8A49208BCEC8}|AuthenticationMVC\\AuthenticationMVC.csproj|solutionrelative:authenticationmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T06:55:41.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:31:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "AuthenticationMVC\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T05:33:20.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T05:33:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:19:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthDB/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T05:39:09.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Global.asax.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:47:48.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:46:41.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebRoleProvider.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\WebRoleProvider.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\WebRoleProvider.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\WebRoleProvider.cs",
+              "RelativeToolTip": "AuthenticationMVC\\WebRoleProvider.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:20:33.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Web.config",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Web.config",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Web.config",
+              "RelativeToolTip": "AuthenticationMVC\\Web.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T06:04:19.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Models\\Role.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:38:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Models\\User.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:16:11.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Mappings\\RoleMap.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Mappings\\RoleMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Mappings\\RoleMap.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Mappings\\RoleMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:41:26.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Mappings\\EmployeeMap.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Mappings\\EmployeeMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Mappings\\EmployeeMap.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Mappings\\EmployeeMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:17:06.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Mappings\\UserMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:18:12.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "RelativeToolTip": "AuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T05:51:58.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "AuthenticationMVC\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T05:54:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "AuthenticationMVC\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T06:29:39.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Employee\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Views\\Employee\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Views\\Employee\\AboutUs.cshtml",
+              "RelativeToolTip": "AuthenticationMVC\\Views\\Employee\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T06:45:23.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap-utilities.min.css.map",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Content\\bootstrap-utilities.min.css.map",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeToolTip": "AuthenticationMVC\\Content\\bootstrap-utilities.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-12T05:36:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "AuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:33:38.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "AuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:23:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AuthenticationMVC\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthenticationMVC\\AuthenticationMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "AuthenticationMVC\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:14:58.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
